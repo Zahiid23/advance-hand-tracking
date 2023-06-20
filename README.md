@@ -1,4 +1,4 @@
-# advance Hand Tracking
+# Advance Hand Tracking
 Advanced Hand tracking and estimation model using MediaPipe and opencv
 
 ## Description
