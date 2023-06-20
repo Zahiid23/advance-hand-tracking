@@ -9,7 +9,7 @@ Advanced tracking:
 ![](https://github.com/Zahiid23/advance-hand-tracking/blob/main/Advancehandtracking.gif) 
 
 Simple tracking
-![](https://github.com/Zahiid23/Emotion-analysis/blob/main/evaluations/happy%20test%202.png)
+![](https://github.com/Zahiid23/advance-hand-tracking/blob/main/simpletracking.gif)
 
 
 ## what is the need of advance hand tarcking? what is the need of advance hand tracking?
