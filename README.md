@@ -12,7 +12,7 @@ Simple tracking
 ![](https://github.com/Zahiid23/advance-hand-tracking/blob/main/simpletracking.gif)
 
 
-## what is the need of advance hand tarcking? what is the need of advance hand tracking?
+## What is the need of advance hand-tracking?
 * Virtual Reality (VR) and Augmented Reality (AR): Hand tracking enables more immersive experiences in VR and AR environments. It allows users to interact with virtual objects and environments using their hands, without the need for controllers or other input devices. This enhances the sense of presence and realism in virtual worlds, making interactions more intuitive and natural.
 
 * Sign Language Recognition: Advanced hand tracking can contribute to the development of sign language recognition systems. By accurately capturing and analyzing hand gestures, these systems can translate sign language into written or spoken language, enabling better communication and accessibility for individuals with hearing impairments.
